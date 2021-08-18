@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin: 15px;
+
+}
+
+h1{
+  color: red;
+  font-size: larger;
+  font-weight: bold;
+  font-family:sans-serif;
+  text-decoration: underline;
+  text-transform: capitalize;
+  padding-bottom: 5%;
+}
+p{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.b{
+  margin-top: 2%;
+}
